@@ -1978,3 +1978,8 @@ p {
     display: block;
   }
 }
+@media (min-width: 300px) and (max-width: 750px) {
+  .footer-widget {
+    margin-left: 50px;
+  }
+}
